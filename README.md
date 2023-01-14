@@ -1,2 +1,2 @@
-# face-recognition-with-opencv
-face recognition application to learn opencv2
+# face-detection-with-opencv
+face detection application to learn opencv2
